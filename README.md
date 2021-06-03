@@ -14,9 +14,10 @@
  -  📫 How to reach me **sangsu9701@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://stackoverflow.com/users/13572447/parkss19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="parkss19" height="30" width="40" /></a>
 <a href="https://kaggle.com/psangsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="psangsu" height="30" width="40" /></a>
-<a href="https://fb.com/sangsub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="박상수" height="30" width="40" /></a>
+<a href="https://fb.com/sangsub1" target="blank"><img align="center" src="https://img.shield.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="박상수" height="30" width="40" /></a>
 <a href="https://instagram.com/sangs___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sangs___" height="30" width="40" /></a>
 </p>
 
