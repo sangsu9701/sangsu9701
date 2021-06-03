@@ -4,14 +4,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangsu9701&show_icons=true&theme=radical&locale=en" alt="sangsp" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangsu9701&show_icons=true&locale=en&layout=compact" alt="sangsp" /></p>
-<p>
-
+<div>
  - 🔭 I’m currently working on [SCM Project](https://github.com/SCMPJ/scm_basecode)
 
  - 🌱 I’m currently learning **Java, Spring, Vue.js**
 
  -  📫 How to reach me **sangsu9701@gmail.com**
-</p>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/parkss19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="parkss19" height="30" width="40" /></a>
