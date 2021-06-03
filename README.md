@@ -1,15 +1,9 @@
-### Hi there 👋
-[![sangsP's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangsu9701&count_private=true&show_icons=true&theme=merko)](https://github.com/sangsu9701/github-readme-stats)
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<h1 align="center">Hi 👋, I'm sangsP</h1>
+<h3 align="center">Wannabe a sexy developer from Korea as soon as possible</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangsu9701&show_icons=true&locale=en&layout=compact" alt="sangsp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangsu9701&show_icons=true&theme=radical&locale=en" alt="sangsp" /></p>
-
-
-<h1 align="center">Hi 👋, I'm sangsP</h1>
-<h3 align="center">Wannabe a sexy developer from Korea as soon as possible</h3>
 
 - 🔭 I’m currently working on [SCM Project](https://github.com/SCMPJ/scm_basecode)
 
