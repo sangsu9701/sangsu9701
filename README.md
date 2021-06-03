@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![sangsP's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangsu9701&count_private=true&show_icons=true&theme=merko)](https://github.com/sangsu9701/github-readme-stats)
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 <!--
 **sangsu9701/sangsu9701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
