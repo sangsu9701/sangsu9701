@@ -3,8 +3,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangsu9701&show_icons=true&theme=radical&locale=en" alt="sangsp" /></p>
 
-</br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangsu9701&show_icons=true&locale=en&layout=compact" alt="sangsp" /></p>
 
  - 🔭 I’m currently working on [SCM Project](https://github.com/SCMPJ/scm_basecode)
