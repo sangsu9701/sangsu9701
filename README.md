@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Java, Spring, Vue.js**
 
 - 📫 How to reach me **sangsu9701@gmail.com**
-<tr>
+</tr>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
