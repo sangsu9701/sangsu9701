@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![sangsP's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangsu9701&count_private=true&show_icons=true&theme=merko&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/sangsu9701/github-readme-stats)
+[![sangsP's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangsu9701&count_private=true&show_icons=true&theme=merko)](https://github.com/sangsu9701/github-readme-stats)
 
 <!--
 **sangsu9701/sangsu9701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
