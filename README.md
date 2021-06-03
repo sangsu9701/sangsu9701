@@ -3,9 +3,9 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangsp&show_icons=true&locale=en&layout=compact" alt="sangsp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangsu9701&show_icons=true&locale=en&layout=compact" alt="sangsp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangsp&show_icons=true&theme=radical&locale=en" alt="sangsp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangsu9701&show_icons=true&theme=radical&locale=en" alt="sangsp" /></p>
 
 
 <h1 align="center">Hi 👋, I'm sangsP</h1>
