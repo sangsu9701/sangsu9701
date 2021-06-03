@@ -17,7 +17,7 @@
 
 <a href="https://stackoverflow.com/users/13572447/parkss19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="parkss19" height="30" width="40" /></a>
 <a href="https://kaggle.com/psangsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="psangsu" height="30" width="40" /></a>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.facebook.com/psangsu"/></a> 
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://kaggle.com/psangsu"/></a> 
 <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sangsub1"/></a> 
 <a href="https://instagram.com/sangs___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sangs___" height="30" width="40" /></a>
 </p>
