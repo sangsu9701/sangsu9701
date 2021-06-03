@@ -14,6 +14,7 @@
  -  📫 How to reach me **sangsu9701@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a><img src="https://img.shields.io/badge/sangsu9701-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/13572447/parkss19" target="blank"><img src="https://img.shields.io/badge/stackoverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"/></a> 
 <a href="https://kaggle.com/psangsu" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a> 
 <a href="https://www.facebook.com/sangsub1" target="blank"> <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white"/></a> 
