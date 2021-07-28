@@ -11,7 +11,7 @@
 
  - 🔭 I participated on [SCM Project](https://github.com/SCMPJ/scm_basecode)
 
- - 🌱 I’m currently learning **Java, Spring, Vue.js**
+ - 🌱 I’m currently learning **Java, Spring, Elasticsearch, Kibana, MySQL**
 
  -  📫 How to reach me **sangsu9701@gmail.com**
 <h3 align="left">Connect with me:</h3>
