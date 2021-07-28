@@ -7,7 +7,9 @@
 
 <br><br><br><br><br><br><br><br>
 
- - 🔭 I’m currently working on [SCM Project](https://github.com/SCMPJ/scm_basecode)
+ - 🏢 I'm currently working on RSN
+
+ - 🔭 I participated on [SCM Project](https://github.com/SCMPJ/scm_basecode)
 
  - 🌱 I’m currently learning **Java, Spring, Vue.js**
 
