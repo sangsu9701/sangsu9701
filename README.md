@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sangsP</h1>
-<h3 align="center">Wannabe a sexy developer from Korea as soon as possible</h3>
+<h3 align="center">Wannabe a good developer from Korea as soon as possible</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangsu9701&show_icons=true&theme=radical&locale=en" alt="sangsp" /></p>
 
